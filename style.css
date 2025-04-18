@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+#myButton {
+    display: block;
+    width: 200px;
+    margin:50% auto 0;
+    font-size: 20px;
+    line-height:2;
+    color:#fff;
+    background: #4169e1;
+    box-shadow:none;
+    border-radius: 10px;
+    cursor:pointer;
+}
